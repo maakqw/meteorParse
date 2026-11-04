@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import timedelta
 
 
-FILE_PATH = "game/007_020a.csv"
+FILE_PATH = "007_020a.csv"
 YEAR = 2012  
 DAYS_BEFORE = 10
 DAYS_AFTER = 10
